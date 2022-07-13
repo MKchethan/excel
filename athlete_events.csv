@@ -1,0 +1,21 @@
+temperature ,price of ice cream ,units sold,,,,,,,,
+20,10,12,,,,,,,,
+26,20,15,,,,,,,,
+30,25,10,,,,,,,,
+35,30,20,,,,,,,,
+38,35,25,,,Descriptive Stats,,Price Of Ice cream,,units sold,
+40,50,20,,,,,,,,
+45,60,10,,,Mean,33.42857143,Mean,32.85714286,Mean,16
+,,,,,Standard Error,3.264944708,Standard Error,6.533534635,Standard Error,2.193062655
+,,,,,Median,35,Median,30,Median,15
+,,,,,Mode,#N/A,Mode,#N/A,Mode,10
+,,,,,Standard Deviation,8.638231741,Standard Deviation,17.28610783,Standard Deviation,5.802298395
+,,,,,Sample Variance,74.61904762,Sample Variance,298.8095238,Sample Variance,33.66666667
+,,,,,Kurtosis,-0.711762504,Kurtosis,-0.521925049,Kurtosis,-1.314871091
+,,,,,Skewness,-0.339979528,Skewness,0.472940403,Skewness,0.430010547
+,,,,,Range,25,Range,50,Range,15
+,,,,,Minimum,20,Minimum,10,Minimum,10
+,,,,,Maximum,45,Maximum,60,Maximum,25
+,,,,,Sum,234,Sum,230,Sum,112
+,,,,,Count,7,Count,7,Count,7
+,,,,,Confidence Level(95.0%),7.989031899,Confidence Level(95.0%),15.98698333,Confidence Level(95.0%),5.366231001
